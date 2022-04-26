@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5f44f3bef5e20a2ee07302eb"
+  },
+  "name": "12345",
+  "email": "12345@qq.com",
+  "avatar": "//www.gravatar.com/avatar/dc7b50de81883385a28ec3d2b0e62fd7?s=200&r=g&d=mm",
+  "identity": "manager",
+  "password": "$2b$10$Th3x3t9xAlz96UZ9ZfrY..1eRW6w6FLY5mQAZaaFOAgRH0XvA2W5S",
+  "date": {
+    "$date": {
+      "$numberLong": "1598354366163"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f44f9815e33b129b855ddf1"
+  },
+  "name": "123451",
+  "email": "123451@qq.com",
+  "avatar": "//www.gravatar.com/avatar/905b1e9b98f0dd0012016483cb127355?s=200&r=g&d=mm",
+  "identity": "manager",
+  "password": "$2b$10$ClHzNWPFxW9yx/36nS9liODv3YlDV5ihbzJpfi0Y8I46ma1S4r3U2",
+  "date": {
+    "$date": {
+      "$numberLong": "1598355841583"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46180e4aad0328b879bedc"
+  },
+  "name": "123452",
+  "email": "123452@qq.com",
+  "avatar": "http://localhost:5001/tmp_uploads\\aab46f13b24ddf3d05982f49871700d2.jpg",
+  "identity": "manager",
+  "password": "$2b$10$LVZUh97nDEnkjVtfU5v.TebEIkYg6Okj5Zg2J8aCnYiWuwXDYl1yS",
+  "date": {
+    "$date": {
+      "$numberLong": "1598429198533"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e08671bd9d1226cd9d89f"
+  },
+  "name": "哆啦A梦",
+  "email": "123453@qq.com",
+  "avatar": "//www.gravatar.com/avatar/fec404e62bc04da2cf262282b4ba3878?s=200&r=g&d=mm",
+  "identity": "employee",
+  "password": "$2b$10$./p1O6sa8H44Lhuvuc3W2OIqffNHdCPbJyqbakvg94PDmJqvGrGqi",
+  "date": {
+    "$date": {
+      "$numberLong": "1598949479658"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e095a1bd9d1226cd9d8a0"
+  },
+  "name": "Mike",
+  "email": "a2067659951@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/9858dbb657f849c408aaf93d3a99d04d?s=200&r=g&d=mm",
+  "identity": "manager",
+  "password": "$2b$10$C4CbMEe91cVGjeP7Dx3PZe4ji/lc2xuN7upOeTOaecSPkX2gX7e12",
+  "date": {
+    "$date": {
+      "$numberLong": "1598949722769"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f59cc0e368bea1c78024d91"
+  },
+  "name": "dentd",
+  "email": "123456@qq.com",
+  "avatar": "//www.gravatar.com/avatar/35de170fc7836ea645e1a7d7b307ff6e?s=200&r=g&d=mm",
+  "identity": "manager",
+  "password": "$2b$10$T9.l7463AsEAcHgF7pwmUOjEcnQn6mArjOPQGe5FVmRmJldg4wbYC",
+  "date": {
+    "$date": {
+      "$numberLong": "1599720462928"
+    }
+  },
+  "__v": 0
+}]
