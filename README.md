@@ -31,15 +31,17 @@ Vue 全家桶 + Node.js + MongoDB
 git clone <git-url>
 ```
 
-使用 `MongoDBCompass` 新建一个数据库为 ` backend`，并创建两个集合分别为 `profiles` 、`users`，然后导入 `dataBase` 下的 `profiles.json` 和 `users.json`到对应集合即可
+使用 `MongoDBCompass` 新建一个数据库为 ` backend`，并创建两个集合分别为 `profiles` 、`users`，
 
-`config/key.js` 通过以下 URI 连接 `backend` 数据库
+然后导入 `dataBase` 下的 `profiles.json` 和 `users.json`到对应集合即可
+
+`config/key.js` 通过以下 URI 连接 `backend` 数据库: 
 
 ```bash
 mongodb://localhost/backend
 ```
 
-## 启动
+## 启动（windows）
 
 ```bash
 yarn install 或 npm install
@@ -68,7 +70,7 @@ yarn dev 或 npm run dev
 | Body | | 
 | --- | --- |
 | x-www-form-urlencoded | |
-| name | value |
+| name |  |
 | email |  | 
 | name |  | 
 | password |  | 
